@@ -1,6 +1,8 @@
 # Fake_News_Detection
 
-This project aims to detect fake news articles using machine learning algorithms. The dataset used in this project consists of two CSV files: 'True.csv' and 'Fake.csv', which contain true and fake news articles respectively.
+This project aims to detect fake news articles using machine learning algorithms. 
+
+The dataset used in this project consists of two CSV files: 'True.csv' and 'Fake.csv', which contain true and fake news articles respectively.
 
 ## Installation
 
