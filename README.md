@@ -1,5 +1,10 @@
 # Fake_News_Detection
 
+[VeriCheck- Website](http://jalpa003.pythonanywhere.com/)
+
+![image](https://user-images.githubusercontent.com/70699020/232918162-4d2b10b8-22aa-4d53-82f5-28ba12e4341e.png)
+
+
 This project aims to detect fake news articles using machine learning algorithms. 
 
 The dataset used in this project consists of two CSV files: 'True.csv' and 'Fake.csv', which contain true and fake news articles respectively.
